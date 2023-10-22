@@ -39,7 +39,7 @@ nome-do-projeto/
 Você pode fazer o download do projeto para a sua máquina local utilizando o comando git clone:
 
 ``` 
-git clone  https://github.com/nome_do_projeto.git
+git clone  https://github.com/B10L0G4/HackaDasManas-ConectElas.git
 ```
 
 Para executar o projeto, basta abrir o arquivo `index.html` em um navegador web.
