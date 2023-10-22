@@ -1,4 +1,4 @@
-# Nome do Projeto
+# ConectElas
 
 O objetivo deste projeto é oferece mentoria individual para mulheres que desejam iniciar, manter ou expandir sua carreira em técnologia.
 Este é um programa gratuito que oferece suporte para o crescimento pessoal e profissional, incentivando o empoderamento das mulheres.
